@@ -1,0 +1,1 @@
+/home/kiara/Documents/Programming/stepik/stepik-rust/rust_entry_level/4_section/tasks_4/target/debug/tasks_4: /home/kiara/Documents/Programming/stepik/stepik-rust/rust_entry_level/4_section/tasks_4/src/main.rs
