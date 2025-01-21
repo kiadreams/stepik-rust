@@ -8,22 +8,92 @@
     <cargoProject FILE="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf679b31-fdc6-44e7-ae72-b7537b1d61e2" name="Changes" comment="" />
+    <list default="true" id="bf679b31-fdc6-44e7-ae72-b7537b1d61e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/src/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/src/task_4_1_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/src/task_4_1_2.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/src/task_4_1_5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/src/task_4_1_5.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/src/task_4_2_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/src/task_4_2_1.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/.rustc_info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/CACHEDIR.TAG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/.cargo-lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/.fingerprint/tasks_4-343db243fbe9857b/bin-tasks_4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/.fingerprint/tasks_4-343db243fbe9857b/bin-tasks_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/.fingerprint/tasks_4-343db243fbe9857b/dep-bin-tasks_4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/.fingerprint/tasks_4-343db243fbe9857b/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/.fingerprint/tasks_4-cc929d16cb13ec6b/bin-tasks_4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/.fingerprint/tasks_4-cc929d16cb13ec6b/bin-tasks_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/.fingerprint/tasks_4-cc929d16cb13ec6b/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/.fingerprint/tasks_4-e3a0ddb6f86b7de8/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/.fingerprint/tasks_4-e3a0ddb6f86b7de8/test-bin-tasks_4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/.fingerprint/tasks_4-e3a0ddb6f86b7de8/test-bin-tasks_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/deps/tasks_4-343db243fbe9857b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/deps/tasks_4-343db243fbe9857b.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/02sg5onz2zxr1gpv4tz6695xo.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/0az0jn8j84mnumj2cbsanpkiz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/13qll33lx20gfme6gks6w9mob.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/1ali8um1tlqwjhj94h019zs0y.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/1azepdwxr4e9970bst72juovx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/228oh394asiau6ciuge75r3c1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/2cu0mljqd0dzrm916a1uxsv63.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/2ul4ust934uovj8f3xpwf0ton.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/3fu3ylt43aqt1qnnwlej66o9a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/43zgiyici476yrgbean0hmru5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/4dbgpjj4ypff7h4e7pitlzxm8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/4t0xdd006wswt36pgpl4irdgr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/5go1oypiecyhe8gaaphq3ek3s.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/5v3w68t110t5g2rgeh2t8cfw8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/73sp1gko8wux5s3cyz5v5ekbm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/7gyx17oac8s8va0rpmg1bvd1w.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/7s6zkzzfvyz4slc4t6zl2g63v.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/7tk7y85u4ymvj8sm9bssvxxv3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/7yphp67qgwudkur2bmehyribc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/9uvm37fvafzkhy2anudhylafz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/9wk6jyyrfa52kdxh90io6dkhw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/amik003or3mzih8kwqhemi60o.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/b73zl9b78mssvs7ouqgpuam0r.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/b8lpezaa48d7lokokc1aliz4i.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/bk2r90v3g8urv9imkfk3es1fp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/bl7o305lpx21mme24dtdmrjmk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/bofr5qlkrzg3334rfhkv8adht.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/bxntlofs762n2te3whz5mims1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/df09cwp6a5kbs3aauhvzw3yof.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/epjq7hviqj9e843v2qv98oe4d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu-at5eypu44e4uuqgof8pgtji4o/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/incremental/tasks_4-1oqcwirq52dhp/s-h3uqk2c57a-0kk33tu.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/tasks_4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/target/debug/tasks_4.d" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="wv16kGk8" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2rttrl4aur5tlrUXff7pO7Hwtx6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,8 +101,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cargo.Run proba.executor": "Run",
     "Cargo.Run tasks_4.executor": "Run",
+    "Cargo.Run.executor": "Run",
+    "Cargo.rustc.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "rust__entry__level",
     "last_opened_file_path": "/home/kiara/Documents/Programming/stepik/stepik-rust",
@@ -43,6 +117,7 @@
     "nodejs_package_manager_path": "npm",
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
     "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "language.rust",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -51,7 +126,7 @@
       <recent name="$PROJECT_DIR$/rust_entry_level/4_section/tasks_4/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Cargo.Run tasks_4">
+  <component name="RunManager" selected="Compound.Unnamed">
     <configuration name="Run proba" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="buildProfileId" value="dev" />
       <option name="command" value="run --package proba --bin proba" />
@@ -71,8 +146,9 @@
       </method>
     </configuration>
     <configuration name="Run tasks_4" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="buildProfileId" value="test" />
       <option name="command" value="run --package tasks_4 --bin tasks_4" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust_entry_level/4_section/tasks_4" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust_entry_level/4_chapter/4_4_section_char" />
       <envs />
       <option name="emulateTerminal" value="true" />
       <option name="channel" value="DEFAULT" />
@@ -104,6 +180,35 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
+    <configuration name="rustc" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="buildProfileId" value="dev" />
+      <option name="command" value="rustc" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/rust_entry_level/4_chapter/4_4_section_char" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <toRun name="rustc" targetId="RsBuildProfile:dev" type="CargoCommandRunConfiguration" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cargo.Run proba" />
+      <item itemvalue="Cargo.Test proba" />
+      <item itemvalue="Cargo.rustc" />
+      <item itemvalue="Cargo.Run tasks_4" />
+      <item itemvalue="Compound.Unnamed" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Cargo.Run tasks_4" />
@@ -122,10 +227,17 @@
       <option name="presentableId" value="Default" />
       <updated>1737390399934</updated>
       <workItem from="1737390401533" duration="960000" />
+      <workItem from="1737482246087" duration="759000" />
+      <workItem from="1737483898642" duration="485000" />
+      <workItem from="1737484450736" duration="511000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

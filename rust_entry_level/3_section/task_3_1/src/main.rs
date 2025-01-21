@@ -1,3 +1,5 @@
+mod sada;
+
 fn main() {
     let error_in = "Что-то не так с вводом";
     let num_error_msg = "Требуется ввести число";
